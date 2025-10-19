@@ -5,17 +5,17 @@ win = pygame.display.set_mode((600, 300))
 
 pygame.display.set_caption("CarDrive")
 
-road = pygame.image.load('road.png')
-car_1 = pygame.image.load('redCar.png')
-car_2 = pygame.image.load('blueCar.png')
-car_3 = pygame.image.load('whiteCar.png')
-end = pygame.image.load('end.png')
-play = pygame.image.load('play.png')
-tutor = pygame.image.load('Tutor.png')
-exit = pygame.image.load('exit.png')
-frame = pygame.image.load('frame.png')
-tutorText = pygame.image.load('control.png')
-text_f = pygame.image.load('text_f.png')
+road = pygame.image.load('image/road.png')
+car_1 = pygame.image.load('image/redCar.png')
+car_2 = pygame.image.load('image/blueCar.png')
+car_3 = pygame.image.load('image/whiteCar.png')
+end = pygame.image.load('image/end.png')
+play = pygame.image.load('image/play.png')
+tutor = pygame.image.load('image/Tutor.png')
+exit = pygame.image.load('image/exit.png')
+frame = pygame.image.load('image/frame.png')
+tutorText = pygame.image.load('image/control.png')
+text_f = pygame.image.load('image/text_f.png')
 
 x = 490
 y = 230
